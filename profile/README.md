@@ -19,7 +19,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/logo-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/logo-light.svg">
-  <img alt="ShareSmile Biotech" src="./assets/logo-light.svg" width="220">
+  <img alt="ShareSmile Biotech" src="./assets/LOGO.png" width="220">
 </picture>
 
 <br/><br/>
@@ -119,7 +119,6 @@
 
 ## ◆ Tech Stack
 
-> ⚠️ **待確認** — 以下為佔位範例，請依實際技術棧調整。
 
 <div align="center">
 
