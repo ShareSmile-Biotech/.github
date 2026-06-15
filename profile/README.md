@@ -16,7 +16,7 @@
 <div align="center">
 
 <!-- ───────── LOGO（Light / Dark 自動切換）───────── -->
-<img alt="ShareSmile Biotech" src="./assets/logo.png" width="220">
+<img alt="ShareSmile Biotech Co., Ltd." src="./assets/logo.png" width="220">
 
 <br/><br/>
 
