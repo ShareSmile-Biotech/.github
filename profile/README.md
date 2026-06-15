@@ -16,11 +16,7 @@
 <div align="center">
 
 <!-- ───────── LOGO（Light / Dark 自動切換）───────── -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/logo-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/logo-light.svg">
-  <img alt="ShareSmile Biotech" src="./assets/LOGO.png" width="220">
-</picture>
+<img alt="ShareSmile Biotech" src="./assets/logo.png" width="220">
 
 <br/><br/>
 
